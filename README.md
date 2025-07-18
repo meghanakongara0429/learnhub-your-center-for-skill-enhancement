@@ -60,7 +60,7 @@ Welcome to **LearnHub**, an interactive platform designed to empower learners an
 
 ## 🧑‍💻 Contributing
 
-We welcome contributions! Please see our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on submitting issues and pull requests.
+We welcome contributions! submit issues and pull requests.
 
 1. Fork the repo
 2. Create your feature branch: `git checkout -b feature/YourFeature`
